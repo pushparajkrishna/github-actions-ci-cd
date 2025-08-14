@@ -1,0 +1,4 @@
+aws configure
+aws sts get-caller-identity
+chmod +x aws-setup.sh
+./aws-setup.sh
